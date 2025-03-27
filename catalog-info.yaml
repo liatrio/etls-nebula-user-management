@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: etls-nebula-user-management
+  annotations:
+    github.com/project-slug: liatrio/etls-nebula-user-management
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage-foundations
